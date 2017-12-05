@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCreditCardValidator</string>
+    <string name="credit_card_icon">Credit Card Icon</string>
+    <string name="card_number_hint">XXXX XXXX XXXX XXXX</string>
+</resources>
